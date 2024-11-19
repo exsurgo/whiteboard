@@ -6,5 +6,4 @@ This is mainly due to performance, as React state updates can be slow for high-f
 
 ## Demo
 
-[See Demo Here](whiteboard-demo.mp4)
-
+https://github.com/user-attachments/assets/c3a53f3c-e42f-434b-a76f-837e4a456f40
